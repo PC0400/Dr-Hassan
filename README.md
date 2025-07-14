@@ -1,4 +1,4 @@
-# Dr-Hassan
+# Dr-Hassan's 
 <!DOCTYPE html>
 <html lang="en">
 <head>
@@ -9,7 +9,7 @@
 <body>
   <header>
     <img src="logo.png" alt="Dr Hassens logo">
-    <nav>
+    <nav> 
       <a href="index.html">Home</a>
       <a href="products.html">Products</a>
       <a href="about.html">About</a>
